@@ -54,7 +54,7 @@ export default function LandingPage() {
         {
           text: "Join Tournament",          href: "#tournaments"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -105,11 +105,11 @@ export default function LandingPage() {
         {
           id: "m3",          name: "Solo Ranking Tournament",          price: "₹20",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-58in1vxw.jpg"},
         {
-          id: "m4",          name: "Fast Paced Clash",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg"},
+          id: "m4",          name: "Fast Paced Clash",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg?_wi=2"},
         {
-          id: "m5",          name: "Elite Matchup",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg"},
+          id: "m5",          name: "Elite Matchup",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg?_wi=1"},
         {
-          id: "m6",          name: "Pro League Qualifier",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg"},
+          id: "m6",          name: "Pro League Qualifier",          price: "₹20",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg?_wi=1"},
       ]}
       title="Today's Matches"
       description="Don't miss the 10 PM showdown."
@@ -122,9 +122,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          title: "Great Payouts",          quote: "Got my payment within 10 minutes. Smooth experience.",          name: "Rahul S.",          role: "Ahmedabad",          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg"},
+          id: "1",          title: "Great Payouts",          quote: "Got my payment within 10 minutes. Smooth experience.",          name: "Rahul S.",          role: "Ahmedabad",          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg?_wi=2"},
         {
-          id: "2",          title: "Verified Platform",          quote: "Finally a legit tournament platform. No cheating.",          name: "Aryan P.",          role: "Verified Player",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg"},
+          id: "2",          title: "Verified Platform",          quote: "Finally a legit tournament platform. No cheating.",          name: "Aryan P.",          role: "Verified Player",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg?_wi=2"},
         {
           id: "3",          title: "Daily Winner",          quote: "Small entry, good winnings. Playing daily now.",          name: "Dev M.",          role: "Regular Gamer",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-smiley-man-winning-videogame_23-2149349988.jpg"},
         {
