@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#tournaments",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg?_wi=1"
       showBlur={true}
       avatars={[
         {
@@ -130,37 +130,37 @@ export default function LandingPage() {
           id: "m1",
           name: "Free Fire Grand Match",
           price: "₹20",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-141irjci.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-141irjci.jpg?_wi=1",
         },
         {
           id: "m2",
           name: "Squad Battle",
           price: "₹20",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-bewsex5k.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-bewsex5k.jpg?_wi=1",
         },
         {
           id: "m3",
           name: "Solo Ranking Tournament",
           price: "₹20",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-58in1vxw.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-58in1vxw.jpg?_wi=1",
         },
         {
           id: "m4",
           name: "Fast Paced Clash",
           price: "₹20",
-          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg?_wi=2",
         },
         {
           id: "m5",
           name: "Elite Matchup",
           price: "₹20",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg?_wi=1",
         },
         {
           id: "m6",
           name: "Pro League Qualifier",
           price: "₹20",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg?_wi=1",
         },
       ]}
       title="Today's Matches"
@@ -179,7 +179,7 @@ export default function LandingPage() {
           quote: "Got my payment within 10 minutes. Smooth experience.",
           name: "Rahul S.",
           role: "Ahmedabad",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg?_wi=2",
         },
         {
           id: "2",
@@ -187,7 +187,7 @@ export default function LandingPage() {
           quote: "Finally a legit tournament platform. No cheating.",
           name: "Aryan P.",
           role: "Verified Player",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg?_wi=2",
         },
         {
           id: "3",
@@ -233,7 +233,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: false,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-141irjci.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-141irjci.jpg?_wi=2",
           imageAlt: "esports trophy winner",
         },
         {
@@ -244,7 +244,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: true,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-bewsex5k.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-bewsex5k.jpg?_wi=2",
           imageAlt: "esports trophy winner",
         },
         {
@@ -255,7 +255,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: false,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-58in1vxw.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AkqzaM2rM7tfJiTexBhUW2Uqcc/uploaded-1776493412501-58in1vxw.jpg?_wi=2",
           imageAlt: "esports trophy winner",
         },
         {
@@ -266,7 +266,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bright-neon-colors-illuminated-arrow_23-2151204972.jpg?_wi=3",
           imageAlt: "esports trophy winner",
         },
         {
@@ -277,7 +277,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-confident-man-red-shirt-with-optical-glasses-with-headphones-points-isolated-white-wall_141793-35243.jpg?_wi=3",
           imageAlt: "esports trophy winner",
         },
         {
@@ -288,7 +288,7 @@ export default function LandingPage() {
           },
           items: [],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hacker-secret-hideout-bypassing-firewalls-launching-ddos-attacks-websites-rogue_482257-135963.jpg?_wi=3",
           imageAlt: "esports trophy winner",
         },
       ]}
